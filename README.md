@@ -19,7 +19,7 @@ This project implements an infinite scrolling feature using React. As you scroll
 ## Features
 
 - **Infinite Scrolling**: Automatically fetches and appends 10 more posts as you scroll down.
-- **API Integration**: Fetches data from https://jsonplaceholder.typicode.com/posts?_page=${page}&_limit=10
+- **API Integration**: Fetches data from https://jsonplaceholder.typicode.com/posts?_page=1&_limit=10
 - **Loading Indicator**: Displays a loading message while fetching data.
 
 ## Usage
